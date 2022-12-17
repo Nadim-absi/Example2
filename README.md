@@ -7,6 +7,8 @@ We will use GitHub to manage the project. Any issue (or task) will be created du
 
 The PR needs to have at least 2 reviewers from your peers. Once they review it within 24 hours, you can either merge it or, in case changes are requested, you will have to make the changes and then ask for another review.
 
+> ⚠️ Never push to `main` branch. Always use a new issue and PR to merge your work.
+
 
 ## Commits
 You should commit on each step and make sure your commits mention the issues it fixes.
